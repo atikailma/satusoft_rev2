@@ -123,7 +123,7 @@ html, body {
 .contact-form #errormessage {
   color: red;
   display: none;
-  border: 1px solid red;
+ 
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -2053,7 +2053,7 @@ margin-left: 40px;
 .contact-form #errormessage {
   color: red;
   display: none;
-  border: 1px solid red;
+ 
   text-align: center;
   padding: 15px;
   font-weight: 600;
